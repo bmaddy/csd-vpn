@@ -31,11 +31,11 @@ cat <(echo "$P") /dev/stdin | sudo openconnect -v \
   <https://vpn.mycompany.com>
 ```
 
-Most of this was copied from here: https://github.com/sourcesimian/vpn-porthole/blob/master/PROFILES.md#cisco-hostscan
+Most of this was copied from here: https://github.com/sourcesimian/vpn-porthole/blob/master/PROFILES.md#cisco-hostscan \
 which was inspired by this: https://gist.github.com/l0ki000/56845c00fd2a0e76d688#gistcomment-2015122
 
 ## Resources
-openconnect manual: http://www.infradead.org/openconnect/manual.html
-Info about using a wrapper script to bypass CSD: http://www.infradead.org/openconnect/csd.html
-Cisco Secure Desktop seems to be end-of-life'd: https://www.cisco.com/c/en/us/obsolete/security/cisco-secure-desktop.html
+openconnect manual: http://www.infradead.org/openconnect/manual.html \
+Info about using a wrapper script to bypass CSD: http://www.infradead.org/openconnect/csd.html \
+Cisco Secure Desktop seems to be end-of-life'd: https://www.cisco.com/c/en/us/obsolete/security/cisco-secure-desktop.html \
 Shimo appears to use openconnect: https://gist.github.com/l0ki000/56845c00fd2a0e76d688#gistcomment-1666416
